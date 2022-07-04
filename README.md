@@ -21,3 +21,26 @@ Now, development teams must be divided into different regions to ensure that all
 The team will work with a common system architecture diagram, and they will be able to use it as a reference when designing their new system. A common architecture diagram for a new system provides a good starting point for the team to work from. It provides a common language for communicating system design, as well as a way to track the status of the system.
 
 
+Benefits of Using System Architecture
+The following are benefits associated with system architecture.
+
+1. The system architecture diagram is a visual representation of the software architecture. It depicts the system architecture, including its context, components, relationships, and dependencies. The key to a good system architecture is to clearly communicate its requirements to your stakeholders and developers, and to have a well-defined system architecture from the beginning. A well-defined system architecture enables you to focus on the development of the software, and avoid long-term problems with integration and operational issues.
+2. Customer satisfaction provides the key to a great architecture. If you do not hear the customers’ voice in your decision-making, you will not know what direction to take. It does not matter how great the architect is if the customers do not buy the product. The same applies to your software architecture. It does not matter how good the developer is if the end user does not feel comfortable with the software. In order to know what to build and how to build it, you need to know what the customer values and how to keep them happy.
+3. The diagram shows the customer value that a supplier’s product or service adds to the customer’s business. It also shows the value of the supplier’s market position to potential customers. As a supplier’s value increases, so does the diagram’s importance. For a high-value supplier, the diagram is often expanded to show the customer value the supplier’s solution adds to the customer’s business.
+4. It is essential that you make it a point to keep your system architecture diagrams up to date. The system architecture diagram shows the current state of the system and the dependencies between the modules. Outdated or incorrect diagrams can cause a lot of trouble. The regulatory bodies need to see an up-to-date system architecture to make sure that the system complies with their standards. When the regulatory bodies’ standards become complacent, your reputation decreases in their eyes and they can fine you up to billions of dollars. When the regulatory bodies’ standards are out of date, they can negatively impact your company’s reputation.
+System Architecture Diagram Examples
+It is critical to become familiar with the system architecture in order to appreciate its implications. In this section, we will discuss the system architecture in more detail.
+
+System Test Architecture Diagram
+The software is also checked using the data provided by the operational layers, which includes information about how the software is used by users. This data is collected using metrics and measurements that are connected to the data, such as number of failed test cases, time to fail test cases, and average time to failure. The system also tests the code against the data that is provided by the business users, including how the software is used by the business users and how the system is used by partners and customers of the business. This data is gathered using the usage data that is connected to the data, such as the number of requests for the software, number of times the software was used, and the amount of data used for each request. The system is also connected to the data that is provided by the users, such as how the software is used by end users, what problems the users have, and what actions the users take to improve the software. Combining information about how many questions were asked, how many answers were given, and how many recommendations were given, this data can help improve the system.
+
+![System-Test-Architecture-Diagram](https://user-images.githubusercontent.com/81725794/177193029-8b58f9b5-db8e-4b6e-a030-721bbe2b2d97.png)
+
+
+System Test Architecture Diagram
+Content Assignment System Architecture Diagram
+The database structure also includes the process of receiving assignments and assigning them to students or learners. This process may be implemented as a workflow or a set of procedures. In either case, the process of receiving an assignment and assigning it to a student or learner is known as assignment tracking. This process is implemented as a workflow and thus the architecture is referred to as a workflow-based architecture.
+
+Content Assignment System Architecture Diagram
+![Content-Assignment-System-Architecture-Diagram-800x562](https://user-images.githubusercontent.com/81725794/177193045-06ee7f2e-00fb-47d6-a9c0-b7fc83f4ad2a.png)
+
